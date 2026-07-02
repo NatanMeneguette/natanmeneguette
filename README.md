@@ -1,6 +1,6 @@
 ### Olá, eu sou o Natan 👋
 
-- 🔭 Atualmente não trabalho, mas sou estudante do segundo ano de engenharia civil UEM
+- 🔭 Atualmente não trabalho, mas sou estudante do quarto ano de engenharia civil UEM
   
 - 🌱 Estou fazendo um curso de desenvolvimento de sistemas no Senai/Pr
 - 📫 meu email: nmeneguette@gmail.com 

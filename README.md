@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente não trabalho, mas sou estudante do quarto ano de engenharia civil UEM
   
-- 🌱 Estou fazendo um curso de desenvolvimento de sistemas no Senai/Pr
+- 🌱 Sou formado no curso de análise e desenvolvimento de sistemas no Senai/Pr
 - 📫 meu email: nmeneguette@gmail.com 
 - <div>
   <a href="https://github.com/NatanMeneguette">
